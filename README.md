@@ -76,18 +76,6 @@ The goal is to create a simple, smooth and mobile-first application while learni
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chaapoooo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaapoooo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
 ## 📡 Find me
 
 <div align="center">
