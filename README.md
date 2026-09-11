@@ -41,7 +41,7 @@ Interested in:
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,python,javascript,html,css,qml" />
+<img src="https://skillicons.dev/icons?i=c,python,javascript,html,css,qt" />
 </p>
 
 ### Tools & Environment
@@ -63,16 +63,6 @@ A file manager I'm building **from scratch in C**.
 > Learning systems programming by actually building systems.
 
 Currently working on the terminal version, with a future **Qt/QML interface** planned for v2.0.
-
----
-
-### 📱 Cycle
-
-A personal **PWA** designed for iPhone, built with:
-
-`HTML` · `CSS` · `JavaScript`
-
-The goal is to create a simple, smooth and mobile-first application while learning more about web development and application design.
 
 ---
 
