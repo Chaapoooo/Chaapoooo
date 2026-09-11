@@ -74,7 +74,7 @@ Currently working on the terminal version, with a future **Qt/QML interface** pl
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/TON_INSTAGRAM/">
+<a href="https://www.instagram.com/leo.grso/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
