@@ -24,7 +24,7 @@ Currently, I'm working on my own projects and improving my skills in **C, Linux 
 
 **Université de Strasbourg**
 
-> CMI — Ingénierie des Systèmes et Réseaux (ISR)
+> CMI — Cursus Master Ingénierie en Informatique, Systèmes et Réseaux (ISR)
 
 Interested in:
 
