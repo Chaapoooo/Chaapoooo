@@ -82,7 +82,7 @@ Currently working on the terminal version, with a future **Qt/QML interface** pl
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
-<a href="mailto:grosson.leo@gmail.com">
+<a href="mailto:l.grosson@etu.unistra.fr">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
