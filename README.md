@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About me
 
-I'm a **CMI ISR student at the University of Strasbourg**, interested in **Linux, systems, networking and cybersecurity**.
+I'm a **CMI ISR student at the Université de Strasbourg**, interested in **Linux, systems, networking and cybersecurity**.
 
 I mainly enjoy working with low-level technologies and understanding how things work under the hood.
 
@@ -24,7 +24,7 @@ Currently, I'm working on my own projects and improving my skills in **C, Linux 
 
 **Université de Strasbourg**
 
-> CMI — Cursus Master Ingénierie en Informatique, Systèmes et Réseaux (ISR)
+> CMI ISR — Cursus Master Ingénierie en Informatique, Systèmes et Réseaux (ISR)
 
 Interested in:
 
@@ -54,7 +54,7 @@ Interested in:
 
 ---
 
-## 🚀 Projects
+## 🚀 Project
 
 ### 🗂️ [Annaora](https://github.com/chaapoooo/Annaora)
 
@@ -84,6 +84,10 @@ Currently working on the terminal version, with a future **Qt/QML interface** pl
 
 <a href="mailto:l.grosson@etu.unistra.fr">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.tiktok.com/@leo.grso">
+<img src="https://img.shields.io/badge/TikTok-FFFDF6?style=for-the-badge&logo=tiktok&logoColor=red" />
 </a>
 
 </div>
